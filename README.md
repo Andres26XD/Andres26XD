@@ -1,8 +1,8 @@
 # olaquepex
 [](https://images.cooltext.com/5584592.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5584593.png" width="369" height="105" alt="Diavolo" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4047297945">Create Your Own Logo</a>
 
 ![](GHLogoTMP.png)
 
